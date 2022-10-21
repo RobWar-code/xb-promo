@@ -22,8 +22,8 @@ As only one person (myself) is permitted to work on this project
 all real days are interpreted as man days. This provides the 
 limitations within which the website is to be produced.
 
-    Planning/Analysis       4
-    JS Studies              10
+    Planning/Analysis       6
+    JS Studies              8
     Gathering Data/images   7
     Coding                  9
     Debugging/Testing       5
@@ -60,5 +60,8 @@ limitations within which the website is to be produced.
     debugging demonstration page, can be developed.
 
     An important question to consider is whether screenshots will
-    show as legible on mobile screen? - Investigate
+    show as legible on mobile screen?
+    At 350px width it is unlikely that appropriate screenshots 
+    will be adequately displayed. So this project is suspended 
+    for the time being.
 
