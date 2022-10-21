@@ -5,3 +5,60 @@
     Introduction
 
 ## Introduction
+
+21/10/22
+The background to this project is a requirement from the CI course
+to produce an interactive website by no later than 10/12/22, which
+is 48 man days. The mooted project is to promote and provide a
+summary overview of the XBasic programming language and PDE, to
+dovetail the CI requirement with a group interest.
+
+The following is the workings-out of the project design.
+
+## Strategy / Scope
+
+### Scheduling Limitations (budget)
+As only one person (myself) is permitted to work on this project
+all real days are interpreted as man days. This provides the 
+limitations within which the website is to be produced.
+
+    Planning/Analysis       4
+    JS Studies              10
+    Gathering Data/images   7
+    Coding                  9
+    Debugging/Testing       5
+    README notes            4
+    Margin of Error         5
+    External Events         6
+    TOTAL                   48
+
+### Deliverables and UCD
+    The weakest link in the schedule is in coding days (9) which 
+    really only allows for two or three website pages. So this section
+    considers what can be usefully delivered to the user within
+    that constraint.
+
+    The primary features of the XBasic language are the provision
+    of a PDE (Program Development Environment) and an interactive
+    window designer (toolbox), so these things should certainly
+    appear on the main page.
+
+    It would also be good to show debugging features on the main
+    page.
+
+    In addition, contact details should be provided on the first
+    page, along with an interest group registration. These two
+    things can be made somewhat JS interactive.
+
+    The second page should provide a more detailed view of the window
+    design tool. This could be done using screenshot images which can
+    be stepped forward or back through by the user, thereby fulfilling
+    the CI interactive requirement and providing the user with handy
+    information in assessing the product.
+
+    If these works fit well within the time frame then a third, 
+    debugging demonstration page, can be developed.
+
+    An important question to consider is whether screenshots will
+    show as legible on mobile screen? - Investigate
+
